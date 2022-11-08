@@ -16,7 +16,7 @@ This is a python codebase used to generate figures for our work by comparing sto
 
 
 ### Requirements
-Raw data can be found here: https://doi.org/10.7799/1827356. 
+Raw data can be found here: https://doi.org/10.7799/1827356. Running experiments requires numpy.
 
 ### Referencing our work
 
