@@ -1,0 +1,2 @@
+# ignore jupyter in repo stats
+*.ipynb* linguist-vendored
