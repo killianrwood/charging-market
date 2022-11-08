@@ -1,7 +1,7 @@
 # charging-market
 A standalone example for a zero sum charging market problem with a demand-response price model. The problem setup, as well as theoeretical guaruntees for our methods, are provided in our paper: 
 
-K. Wood and E. Dall'Anese. Stochastic Saddle Point Problems with Decision-Dependent Distributions.*arxiv preprint arxiv:2201.02313*, 2022
+K. Wood and E. Dall'Anese. Stochastic Saddle Point Problems with Decision-Dependent Distributions. *arxiv preprint arxiv:2201.02313*, 2022
 
 The arxiv preprint can be found here https://arxiv.org/abs/2201.02313. 
 
